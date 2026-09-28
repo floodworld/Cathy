@@ -148,6 +148,7 @@ payload:
   - DOMAIN-SUFFIX,app.do
   - DOMAIN-SUFFIX,as01.plinkspile.cc
   - DOMAIN-SUFFIX,atlanticflixtv.online
+  - DOMAIN-SUFFIX,b1gchlogos.xyz
   - DOMAIN-SUFFIX,bbb-billi-xumo.otteravision.com
   - DOMAIN-SUFFIX,bbb-bowl-xumo.otteravision.com
   - DOMAIN-SUFFIX,beam-images.warnermediacdn.com
@@ -303,6 +304,7 @@ payload:
   - DOMAIN-SUFFIX,image-resizer-cloud-cdn.api.cms.amdvids.com
   - DOMAIN-SUFFIX,image.p-c2-x.abema-tv.com
   - DOMAIN-SUFFIX,image.xumo.com
+  - DOMAIN-SUFFIX,imagedelivery.net
   - DOMAIN-SUFFIX,images.foxtv.com
   - DOMAIN-SUFFIX,images.indihometv.com
   - DOMAIN-SUFFIX,images.now-tv.com
@@ -352,6 +354,7 @@ payload:
   - DOMAIN-SUFFIX,news20e7hhcb.airspace-cdn.cbsivideo.com
   - DOMAIN-SUFFIX,nhk4.mov3.co
   - DOMAIN-SUFFIX,nmx1ota.akamaized.net
+  - DOMAIN-SUFFIX,nordiciptv.co
   - DOMAIN-SUFFIX,nowplayer.now.com
   - DOMAIN-SUFFIX,ntdofifreepc-tgc.cdn.hinet.net
   - DOMAIN-SUFFIX,ntv5.mov3.co
@@ -396,10 +399,13 @@ payload:
   - DOMAIN-SUFFIX,prod-s.cdn-cf.philo.com
   - DOMAIN-SUFFIX,provider-static.plex.tv
   - DOMAIN-SUFFIX,prtimes.jp
+  - DOMAIN-SUFFIX,ptvs.live
   - DOMAIN-SUFFIX,qitv.fengshows.cn
+  - DOMAIN-SUFFIX,r2.thesportsdb.com
   - DOMAIN-SUFFIX,rally-tv-live.akamaized.net
   - DOMAIN-SUFFIX,rch01e-alive-hls.akamaized.net
   - DOMAIN-SUFFIX,rightsboosterltd-scl-1-us.xumo.wurl.tv
+  - DOMAIN-SUFFIX,ro00t.cbilant.com
   - DOMAIN-SUFFIX,rt-glb.rttv.com
   - DOMAIN-SUFFIX,rthktv31-live.akamaized.net
   - DOMAIN-SUFFIX,rthktv32-live.akamaized.net
@@ -501,6 +507,7 @@ payload:
   - IP-CIDR,107.150.35.0/24
   - IP-CIDR,107.150.42.0/24
   - IP-CIDR,107.150.52.0/24
+  - IP-CIDR,107.150.55.0/24
   - IP-CIDR,108.138.167.0/24
   - IP-CIDR,108.156.107.0/24
   - IP-CIDR,108.156.224.0/24
@@ -543,6 +550,7 @@ payload:
   - IP-CIDR,138.81.35.0/24
   - IP-CIDR,142.54.162.0/24
   - IP-CIDR,142.54.168.0/24
+  - IP-CIDR,142.54.178.0/24
   - IP-CIDR,142.54.179.0/24
   - IP-CIDR,143.204.204.0/24
   - IP-CIDR,143.244.60.0/24
@@ -613,6 +621,7 @@ payload:
   - IP-CIDR,18.65.3.0/24
   - IP-CIDR,181.233.127.0/24
   - IP-CIDR,184.34.81.0/24
+  - IP-CIDR,185.114.146.0/24
   - IP-CIDR,192.109.138.0/24
   - IP-CIDR,192.142.57.0/24
   - IP-CIDR,192.151.152.0/24
@@ -724,6 +733,7 @@ payload:
   - IP-CIDR,5.182.228.0/24
   - IP-CIDR,50.7.144.0/24
   - IP-CIDR,50.7.236.0/24
+  - IP-CIDR,50.7.240.0/24
   - IP-CIDR,51.158.145.0/24
   - IP-CIDR,52.1.210.0/24
   - IP-CIDR,52.222.157.0/24

@@ -149,6 +149,7 @@ name = Cathy 源
 2, app.do
 2, as01.plinkspile.cc
 2, atlanticflixtv.online
+2, b1gchlogos.xyz
 2, bbb-billi-xumo.otteravision.com
 2, bbb-bowl-xumo.otteravision.com
 2, beam-images.warnermediacdn.com
@@ -304,6 +305,7 @@ name = Cathy 源
 2, image-resizer-cloud-cdn.api.cms.amdvids.com
 2, image.p-c2-x.abema-tv.com
 2, image.xumo.com
+2, imagedelivery.net
 2, images.foxtv.com
 2, images.indihometv.com
 2, images.now-tv.com
@@ -353,6 +355,7 @@ name = Cathy 源
 2, news20e7hhcb.airspace-cdn.cbsivideo.com
 2, nhk4.mov3.co
 2, nmx1ota.akamaized.net
+2, nordiciptv.co
 2, nowplayer.now.com
 2, ntdofifreepc-tgc.cdn.hinet.net
 2, ntv5.mov3.co
@@ -397,10 +400,13 @@ name = Cathy 源
 2, prod-s.cdn-cf.philo.com
 2, provider-static.plex.tv
 2, prtimes.jp
+2, ptvs.live
 2, qitv.fengshows.cn
+2, r2.thesportsdb.com
 2, rally-tv-live.akamaized.net
 2, rch01e-alive-hls.akamaized.net
 2, rightsboosterltd-scl-1-us.xumo.wurl.tv
+2, ro00t.cbilant.com
 2, rt-glb.rttv.com
 2, rthktv31-live.akamaized.net
 2, rthktv32-live.akamaized.net
@@ -502,6 +508,7 @@ name = Cathy 源
 0, 107.150.35.0/24
 0, 107.150.42.0/24
 0, 107.150.52.0/24
+0, 107.150.55.0/24
 0, 108.138.167.0/24
 0, 108.156.107.0/24
 0, 108.156.224.0/24
@@ -544,6 +551,7 @@ name = Cathy 源
 0, 138.81.35.0/24
 0, 142.54.162.0/24
 0, 142.54.168.0/24
+0, 142.54.178.0/24
 0, 142.54.179.0/24
 0, 143.204.204.0/24
 0, 143.244.60.0/24
@@ -614,6 +622,7 @@ name = Cathy 源
 0, 18.65.3.0/24
 0, 181.233.127.0/24
 0, 184.34.81.0/24
+0, 185.114.146.0/24
 0, 192.109.138.0/24
 0, 192.142.57.0/24
 0, 192.151.152.0/24
@@ -725,6 +734,7 @@ name = Cathy 源
 0, 5.182.228.0/24
 0, 50.7.144.0/24
 0, 50.7.236.0/24
+0, 50.7.240.0/24
 0, 51.158.145.0/24
 0, 52.1.210.0/24
 0, 52.222.157.0/24

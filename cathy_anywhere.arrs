@@ -397,6 +397,7 @@ name = Cathy 源
 2, play-lh.googleusercontent.com
 2, poolc6cg1ead.airspace-cdn.cbsivideo.com
 2, poster.starhubgo.com
+2, ppv.1688848.xyz
 2, ppv.waastudios.dpdns.org
 2, prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com
 2, prod-s.cdn-cf.philo.com
@@ -555,6 +556,7 @@ name = Cathy 源
 0, 142.54.168.0/24
 0, 142.54.178.0/24
 0, 142.54.179.0/24
+0, 142.54.189.0/24
 0, 143.204.204.0/24
 0, 143.244.60.0/24
 0, 146.75.93.0/24
@@ -687,6 +689,7 @@ name = Cathy 源
 0, 23.213.53.0/24
 0, 23.214.22.0/24
 0, 23.216.5.0/24
+0, 23.220.161.0/24
 0, 23.220.162.0/24
 0, 23.220.246.0/24
 0, 23.220.97.0/24
@@ -783,6 +786,7 @@ name = Cathy 源
 0, 69.197.181.0/24
 0, 69.30.230.0/24
 0, 69.30.238.0/24
+0, 74.91.23.0/24
 0, 74.91.26.0/24
 0, 74.91.31.0/24
 0, 75.2.60.0/24

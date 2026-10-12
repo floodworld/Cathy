@@ -484,6 +484,7 @@ domain:tbs-live-cdn.tver.jp
 domain:tbs5.mov3.co
 domain:tcl-channel-cdn.ideonow.com
 domain:theacc.com
+domain:thumb.wikimedia.org
 domain:tlgrm.re
 domain:tpshen.com
 domain:trams.koyeb.app
@@ -673,6 +674,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 18.65.25.0/24
 18.65.3.0/24
 181.233.127.0/24
+184.28.78.0/24
 184.29.30.0/24
 184.30.148.0/24
 184.34.81.0/24
@@ -689,6 +691,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 192.3.110.0/24
 192.53.122.0/24
 194.59.155.0/24
+194.59.59.0/24
 194.76.0.0/24
 195.128.25.0/24
 195.128.27.0/24

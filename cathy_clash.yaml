@@ -485,6 +485,7 @@ payload:
   - DOMAIN-SUFFIX,tbs5.mov3.co
   - DOMAIN-SUFFIX,tcl-channel-cdn.ideonow.com
   - DOMAIN-SUFFIX,theacc.com
+  - DOMAIN-SUFFIX,thumb.wikimedia.org
   - DOMAIN-SUFFIX,tlgrm.re
   - DOMAIN-SUFFIX,tpshen.com
   - DOMAIN-SUFFIX,trams.koyeb.app
@@ -674,6 +675,7 @@ payload:
   - IP-CIDR,18.65.25.0/24
   - IP-CIDR,18.65.3.0/24
   - IP-CIDR,181.233.127.0/24
+  - IP-CIDR,184.28.78.0/24
   - IP-CIDR,184.29.30.0/24
   - IP-CIDR,184.30.148.0/24
   - IP-CIDR,184.34.81.0/24
@@ -690,6 +692,7 @@ payload:
   - IP-CIDR,192.3.110.0/24
   - IP-CIDR,192.53.122.0/24
   - IP-CIDR,194.59.155.0/24
+  - IP-CIDR,194.59.59.0/24
   - IP-CIDR,194.76.0.0/24
   - IP-CIDR,195.128.25.0/24
   - IP-CIDR,195.128.27.0/24

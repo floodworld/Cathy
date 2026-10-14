@@ -183,6 +183,7 @@ name = Cathy 源
 2, cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 2, ch1.live
 2, ch2.live
+2, ch3.live
 2, channel.rakuten.co.jp
 2, cinelife.com
 2, cinevid.st
@@ -488,6 +489,7 @@ name = Cathy 源
 2, theacc.com
 2, thumb.wikimedia.org
 2, tlgrm.re
+2, tplv-tiktokx-origin.image
 2, tpshen.com
 2, trams.koyeb.app
 2, tsb-mega.i9.ee
@@ -515,6 +517,7 @@ name = Cathy 源
 2, www.cinemax.com
 2, www.cnnindonesia.com
 2, www.mediar.cz
+2, www.newscaststudio.com
 2, www.paramountshop.com
 2, www.samsung.com
 2, www.sportsvideo.org
@@ -532,6 +535,7 @@ name = Cathy 源
 0, 1.179.247.0/24
 0, 100.23.206.0/24
 0, 103.176.90.0/24
+0, 103.176.91.0/24
 0, 103.211.103.0/24
 0, 104.18.18.0/24
 0, 104.18.19.0/24

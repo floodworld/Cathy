@@ -181,6 +181,7 @@ domain:cdn6.cc.cd
 domain:cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
 domain:ch1.live
 domain:ch2.live
+domain:ch3.live
 domain:channel.rakuten.co.jp
 domain:cinelife.com
 domain:cinevid.st
@@ -486,6 +487,7 @@ domain:tcl-channel-cdn.ideonow.com
 domain:theacc.com
 domain:thumb.wikimedia.org
 domain:tlgrm.re
+domain:tplv-tiktokx-origin.image
 domain:tpshen.com
 domain:trams.koyeb.app
 domain:tsb-mega.i9.ee
@@ -513,6 +515,7 @@ domain:www.bsfuji.tv
 domain:www.cinemax.com
 domain:www.cnnindonesia.com
 domain:www.mediar.cz
+domain:www.newscaststudio.com
 domain:www.paramountshop.com
 domain:www.samsung.com
 domain:www.sportsvideo.org
@@ -530,6 +533,7 @@ domain:xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 1.179.247.0/24
 100.23.206.0/24
 103.176.90.0/24
+103.176.91.0/24
 103.211.103.0/24
 104.18.18.0/24
 104.18.19.0/24

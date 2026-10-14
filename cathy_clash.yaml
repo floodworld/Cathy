@@ -182,6 +182,7 @@ payload:
   - DOMAIN-SUFFIX,cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv
   - DOMAIN-SUFFIX,ch1.live
   - DOMAIN-SUFFIX,ch2.live
+  - DOMAIN-SUFFIX,ch3.live
   - DOMAIN-SUFFIX,channel.rakuten.co.jp
   - DOMAIN-SUFFIX,cinelife.com
   - DOMAIN-SUFFIX,cinevid.st
@@ -487,6 +488,7 @@ payload:
   - DOMAIN-SUFFIX,theacc.com
   - DOMAIN-SUFFIX,thumb.wikimedia.org
   - DOMAIN-SUFFIX,tlgrm.re
+  - DOMAIN-SUFFIX,tplv-tiktokx-origin.image
   - DOMAIN-SUFFIX,tpshen.com
   - DOMAIN-SUFFIX,trams.koyeb.app
   - DOMAIN-SUFFIX,tsb-mega.i9.ee
@@ -514,6 +516,7 @@ payload:
   - DOMAIN-SUFFIX,www.cinemax.com
   - DOMAIN-SUFFIX,www.cnnindonesia.com
   - DOMAIN-SUFFIX,www.mediar.cz
+  - DOMAIN-SUFFIX,www.newscaststudio.com
   - DOMAIN-SUFFIX,www.paramountshop.com
   - DOMAIN-SUFFIX,www.samsung.com
   - DOMAIN-SUFFIX,www.sportsvideo.org
@@ -531,6 +534,7 @@ payload:
   - IP-CIDR,1.179.247.0/24
   - IP-CIDR,100.23.206.0/24
   - IP-CIDR,103.176.90.0/24
+  - IP-CIDR,103.176.91.0/24
   - IP-CIDR,103.211.103.0/24
   - IP-CIDR,104.18.18.0/24
   - IP-CIDR,104.18.19.0/24

@@ -438,6 +438,7 @@ payload:
   - DOMAIN-SUFFIX,provider-static.plex.tv
   - DOMAIN-SUFFIX,prtimes.jp
   - DOMAIN-SUFFIX,ptvs.live
+  - DOMAIN-SUFFIX,public.accessibility.transcribes
   - DOMAIN-SUFFIX,qitv.fengshows.cn
   - DOMAIN-SUFFIX,r2.thesportsdb.com
   - DOMAIN-SUFFIX,rally-tv-live.akamaized.net
@@ -704,7 +705,9 @@ payload:
   - IP-CIDR,192.3.110.167/32
   - IP-CIDR,192.53.122.0/32
   - IP-CIDR,194.59.155.0/32
+  - IP-CIDR,194.59.155.235/32
   - IP-CIDR,194.59.59.0/32
+  - IP-CIDR,194.59.59.89/32
   - IP-CIDR,194.59.59.91/32
   - IP-CIDR,194.76.0.0/32
   - IP-CIDR,195.128.25.0/32
@@ -745,6 +748,8 @@ payload:
   - IP-CIDR,208.110.86.0/32
   - IP-CIDR,213.109.154.0/32
   - IP-CIDR,213.183.40.0/32
+  - IP-CIDR,213.183.40.147/32
+  - IP-CIDR,213.183.40.227/32
   - IP-CIDR,213.183.47.0/32
   - IP-CIDR,217.20.50.0/32
   - IP-CIDR,222.85.198.0/32
@@ -839,7 +844,9 @@ payload:
   - IP-CIDR,5.182.228.0/32
   - IP-CIDR,5.182.231.61/32
   - IP-CIDR,50.7.144.0/32
+  - IP-CIDR,50.7.144.98/32
   - IP-CIDR,50.7.216.0/32
+  - IP-CIDR,50.7.216.162/32
   - IP-CIDR,50.7.236.0/32
   - IP-CIDR,50.7.238.0/32
   - IP-CIDR,50.7.240.0/32
@@ -883,7 +890,10 @@ payload:
   - IP-CIDR,77.72.19.42/32
   - IP-CIDR,77.72.22.0/32
   - IP-CIDR,77.72.23.0/32
+  - IP-CIDR,77.72.23.226/32
+  - IP-CIDR,77.72.23.250/32
   - IP-CIDR,79.127.223.0/32
+  - IP-CIDR,79.127.223.35/32
   - IP-CIDR,79.127.243.0/32
   - IP-CIDR,79.127.248.0/32
   - IP-CIDR,79.127.248.86/32
